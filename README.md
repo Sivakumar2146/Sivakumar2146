@@ -23,7 +23,7 @@
 - 🐳 Experience with **Docker & Kubernetes** for containerized workloads
 - ⚙️ Built & maintained **CI/CD pipelines** using Jenkins & GitHub Actions
 - 🏗️ Implemented **Infrastructure as Code** using Terraform & Ansible
-- 🎯 Currently on a mission to become a **full-stack DevOps & Cloud Engineer**
+- 🎯 Currently going deeper into DevOps & Cloud — from production experience to engineering mastery
 - 📍 Based in **Bangalore, Karnataka**
 
 ---
@@ -82,18 +82,22 @@
 
 ---
 
-## 🌱 Currently Learning
+## 🚀 Currently Levelling Up
 
-I'm following a structured 6-month DevOps + Cloud roadmap (2 hrs/day):
+I have hands-on production experience across these areas. Now going deeper — from
+using tools to truly engineering with them.
 
-| Phase | Topic | Status |
-|-------|-------|--------|
-| Phase 1 | Linux Deep Dive + Networking + Git | 🔄 In Progress |
-| Phase 2 | Shell Scripting + Python Automation | ⏳ Up Next |
-| Phase 3 | Docker + Kubernetes (from scratch) | ⏳ Upcoming |
-| Phase 4 | AWS Full Hands-On + SAA-C03 Cert | ⏳ Upcoming |
-| Phase 5 | CI/CD + Terraform + Ansible | ⏳ Upcoming |
-| Phase 6 | Monitoring + Portfolio Projects | ⏳ Upcoming |
+| Area | Production Experience | Going Deeper Into |
+|------|-----------------------|-------------------|
+| 🐧 Linux & Scripting | Managing 90+ servers, shell automation, cron jobs | Advanced troubleshooting, performance tuning, Python automation |
+| ☁️ AWS | EC2, S3, IAM, VPC, RDS, CloudWatch in live environments | EKS, ALB, Route 53, Auto Scaling, SAA-C03 certification |
+| 🐳 Docker | Containerizing apps, running workloads in production | Multi-stage builds, Docker Compose, image optimization, ECR |
+| ☸️ Kubernetes | Deploying workloads, checking pod status | Writing YAMLs from scratch, Ingress, HPA, Helm, CKA prep |
+| 🏗️ Terraform | Basic AWS provisioning, S3 remote state | Modules, workspaces, CI/CD integration, Terraform Associate cert |
+| 🔄 CI/CD | Jenkins & GitHub Actions pipelines in production | End-to-end pipeline design, multi-stage workflows, GitOps |
+| 📊 Monitoring | CloudWatch alerts and dashboards | Prometheus + Grafana stack, AlertManager, Loki |
+
+> 💬 *"I'm not starting from zero — I'm going from experience to expertise."*
 
 ---
 
@@ -101,9 +105,9 @@ I'm following a structured 6-month DevOps + Cloud roadmap (2 hrs/day):
 
 | Project | Description | Tools |
 |---------|-------------|-------|
-| 🔧 [Terraform AWS Infrastructure](https://github.com/Sivakumar2146/Devops_Project) | Provisioning AWS resources using Terraform modules | Terraform, AWS, S3, EC2, IAM |
-| 🚀 [Jenkins Hello World Pipeline](https://github.com/Sivakumar2146/jenkins-hello-world) | Basic CI pipeline with Jenkins | Jenkins, Shell |
-| 📚 [DevOps Learning Journey](https://github.com/Sivakumar2146/learn_git_devops) | Scripts and notes from my DevOps learning path | Python, Shell, Git |
+| 🏗️ [Terraform AWS Infrastructure](https://github.com/Sivakumar2146/Devops_Project) | Provisioning AWS resources using Terraform modules | Terraform, AWS, S3, EC2, IAM |
+| 🚀 [Jenkins Hello World Pipeline](https://github.com/Sivakumar2146/jenkins-hello-world) | CI pipeline with Jenkins | Jenkins, Shell |
+| 📚 [DevOps Learning Journey](https://github.com/Sivakumar2146/learn_git_devops) | Scripts and notes from hands-on practice | Python, Shell, Git |
 
 ---
 
@@ -122,9 +126,9 @@ I'm following a structured 6-month DevOps + Cloud roadmap (2 hrs/day):
 
 ## 💡 Fun Facts
 
-- 🖥️ I've managed migrations for 90+ production servers without losing sleep (well, almost)
-- 🔍 I can troubleshoot a crashed Linux server faster than most people Google the error
-- 📈 Currently on a journey from Sysadmin → DevOps Engineer — one commit at a time
+- 🖥️ Managed migrations for 90+ production servers without breaking things (mostly 😄)
+- 🔍 Can troubleshoot a crashed Linux server faster than most people Google the error
+- 📈 Going from Sysadmin → DevOps Engineer — one commit at a time
 
 ---
 
